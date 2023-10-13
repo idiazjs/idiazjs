@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @idiazjs
-- 👀 I’m interested in Java, Oracel DB, Microsoft DB 
+- 👀 I’m interested in Java, Oracel DB and Microsoft DB 
 - 🌱 I’m currently learning Microservices, Dicker and Cubernets
 - 💞️ I’m looking to collaborate on Microservices projects
 - 📫 How to reach me ... idiazlarajesus@gmail.com
